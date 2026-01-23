@@ -1,6 +1,6 @@
-# Machine Learning Daily Practice
+# Machine Learning Practice
 
-This repository contains my **daily work and practice in Machine Learning**, focusing on:
+This repository contains my **work and practice in Machine Learning**, focusing on:
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Machine Learning Algorithms
